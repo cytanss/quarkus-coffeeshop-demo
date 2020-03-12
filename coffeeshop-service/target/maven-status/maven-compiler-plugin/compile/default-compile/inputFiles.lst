@@ -1,0 +1,6 @@
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/http/BaristaService.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/codecs/BeverageDeserializer.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/CoffeeShopResource.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/model/Beverage.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/dashboard/BoardResource.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/coffeeshop-service/src/main/java/me/escoffier/quarkus/coffeeshop/model/Order.java

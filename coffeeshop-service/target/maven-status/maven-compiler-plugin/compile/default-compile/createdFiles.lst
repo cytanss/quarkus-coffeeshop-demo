@@ -1,0 +1,7 @@
+me/escoffier/quarkus/coffeeshop/http/BaristaService.class
+me/escoffier/quarkus/coffeeshop/model/Beverage$State.class
+me/escoffier/quarkus/coffeeshop/model/Order.class
+me/escoffier/quarkus/coffeeshop/model/Beverage.class
+me/escoffier/quarkus/coffeeshop/codecs/BeverageDeserializer.class
+me/escoffier/quarkus/coffeeshop/CoffeeShopResource.class
+me/escoffier/quarkus/coffeeshop/dashboard/BoardResource.class

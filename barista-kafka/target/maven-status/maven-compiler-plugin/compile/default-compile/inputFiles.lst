@@ -1,0 +1,5 @@
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/barista-kafka/src/main/java/me/escoffier/quarkus/coffeeshop/Order.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/barista-kafka/src/main/java/me/escoffier/quarkus/coffeeshop/KafkaBarista.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/barista-kafka/src/main/java/me/escoffier/quarkus/coffeeshop/Beverage.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/barista-kafka/src/main/java/me/escoffier/quarkus/coffeeshop/codecs/OrderDeserializer.java
+/Users/danieloh/Downloads/quarkus-coffeeshop-demo/barista-kafka/src/main/java/me/escoffier/quarkus/coffeeshop/Names.java

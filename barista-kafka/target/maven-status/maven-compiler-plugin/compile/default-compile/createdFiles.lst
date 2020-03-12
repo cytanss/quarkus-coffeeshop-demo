@@ -1,0 +1,6 @@
+me/escoffier/quarkus/coffeeshop/Beverage.class
+me/escoffier/quarkus/coffeeshop/codecs/OrderDeserializer.class
+me/escoffier/quarkus/coffeeshop/Names.class
+me/escoffier/quarkus/coffeeshop/Order.class
+me/escoffier/quarkus/coffeeshop/KafkaBarista.class
+me/escoffier/quarkus/coffeeshop/Beverage$State.class
